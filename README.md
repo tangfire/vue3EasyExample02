@@ -1,29 +1,11 @@
-# vue-project
+vue3语法入门案例项目02
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+vue3语法入门案例项目01地址:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[vue3easyExample](https://github.com/tangfire/vue3easyExample)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+测试axios的后端项目:
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+[axios_demo](https://github.com/tangfire/axios_demo)
